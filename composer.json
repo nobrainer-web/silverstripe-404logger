@@ -1,5 +1,5 @@
 {
-	"name": "restruct/silverstripe-404logger",
+	"name": "nobrainer-web/silverstripe-404logger",
 	"description": "Logs 404 errors to the database (link & referrer + count), including report for CMS",
 	"license": "MIT",
     "type": "silverstripe-vendormodule",
